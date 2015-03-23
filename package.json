@@ -1,0 +1,15 @@
+{
+  "name": "mochachaitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha"
+  },
+  "author": "Otto Giron",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "mocha": "^2.2.1"
+  }
+}
